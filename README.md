@@ -136,7 +136,7 @@ that will become much clearer in the next lesson, we'll create a class called
 `SightingSerializer` and save it in the `services` folder as
 `sighting_serializer.rb`:
 
-```sh
+```
 touch app/services/sighting_serializer.rb
 ```
 
